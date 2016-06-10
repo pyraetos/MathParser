@@ -1,4 +1,4 @@
-package net.pyraetos;
+package net.pyraetos.math;
 
 public abstract class Function{
 	
